@@ -15,5 +15,5 @@ A dump of the 1024 bit (128 byte) eeprom near the pic at the bottom of the board
 A dump of the Atmel eeprom located on the removable modem board near the phone jack. As far as I can tell, this contains data for the Conexant SmartDAA modem on the same board. 
 
 
-###WinVote Firmware
+### WinVote Firmware
 Firmware dumps from the WinVote voting machine
